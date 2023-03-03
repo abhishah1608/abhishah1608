@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhi Shah
-- 👀 I’m interested in Web Development working as a C# full stack developer. Have experience in javascript Frontend framework such as Angularjs, Angular. Have experience on
+- 👀 I have 6 years of experience in Web Development working as a C# full stack developer and also have worked on various javascript Frontend framework such as Angularjs, Angular. Have experience on
 - C# Web API, SQL server, Mongodb and Node.js 
 - 🌱 I’m currently learning Python programming, Artificial intelligence ,machine learning algorithms.
 - 💞️ I’m looking to collaborate with Artificial Intelligence, machine learning enthusiastic that I can learn and build my profile as an AI Engineer.   
