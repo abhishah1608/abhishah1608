@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhi Shah
 - 👀 I have 7 years of experience in Web Development working as a full stack developer and also have worked on various javascript Frontend framework such as Angularjs, Angular.
-- I have work experience in various framework Ruby on Rails, Python Flask API, Fast API, C# Web API, SQL server, Mongodb and Node.js, AngularJS, Angular 12+, Javascript, Python Flask API
+- I have work experience in various framework C# Core Web API, Python Flask API, Fast API, Java Spring Boot, SQL server, Mongodb and Node.js, AngularJS, Angular 12+, Javascript, Python Flask API.
 - 🌱 I’m currently learning machine learning algorithms, Cybersecurity and worked on various projects to integrate AI features in existing projects.
 - 💞️ I’m looking to collaborate with Artificial Intelligence, machine learning enthusiastic so that I can learn and build my profile as an AI Engineer.   
 - 📫 Reach me at abhishah1608@gmail.com
