@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhi Shah
 - 👀 I have 8+ years of experience in Web Development working as a full stack developer with proficiency in building scalable Microservices and Frontend UI with strong knowledge with Relation database especially in MS-SQL server. Have extensive experience on buidling three enterpise level products as a full stack developer.
-- Currently,I am a full Stack Developer at Info-Electronics HP Systems, Canada, developing microservice-based weather forecasting web applications using ReactJS, Spring Boot, and OpenLayers/MapServer for geospatial visualization. 
+- Currently, I am working as a Full Stack Developer at Info-Electronics HP Systems, Canada, developing microservice-based weather forecasting web applications using ReactJS, Spring Boot, and OpenLayers/MapServer for geospatial visualization. 
 - I worked as a Research Assistanct at durham College AI hub(Contract part time), to integrate AI components with SME companies in Canada. Few projects that I worked to build recommendation system for cravers solutions, forecasting of the warehouse products based on historical inbound and outbound operations, using of hugging face finbert to calculate setiment of financial news of the stock to predict the performance of stocks price and volume based on historical analysis and financial news. Integrated AI models with API endpoints.
 - Past Experience:
   Samyak Infotech Private ltd, Ahmedabad, Gujarat, India(Jan 2019- Dec 2022) - Senior Software Developer.
